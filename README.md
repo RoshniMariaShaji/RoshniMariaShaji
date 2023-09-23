@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Roshni Maria Shaji</h1>
-<img src="https://github.com/RoshniMariaShaji/RoshniMariaShaji/blob/main/suji.gif" width="70%" alt="logo.gif"/>
     <br>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshniMariaShaji&label=Profile%20views&color=0e75b6&style=flat" alt="RoshniMariaShaji" /> </p>
