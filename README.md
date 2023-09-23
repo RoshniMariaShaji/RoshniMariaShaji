@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshniMariaShaji&label=Profile%20views&color=0e75b6&style=flat" alt="RoshniMariaShaji" /> </p>
   
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-      
-- 📫 Reach me on roshnimshaji2002@gmail.com
+      <p align="left">
+- 🌱 A Free soul trying to learn new things.
+  <p align="left">
+- 📫 How to reach me roshnimshaji2002@gmail.com
            
 <h3 align="left">Connect with me:</h3>
 <!-- Social Links !-->
@@ -33,10 +35,8 @@ Here are some ideas to get you started:
 </a>
 <p align="left">
   
-### About me 🚀
- <p align="left">
-- 🌱 A Free soul trying to learn new things.
-  <p align="left">
+
+ 
   
 
 <p align="left">
