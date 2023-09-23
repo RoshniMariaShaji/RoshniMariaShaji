@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   </div>
+  <h2 align="left"> 💻 Coding Profiles:</h2>
   <div>
 <p align="center">
   <a href="https://www.hackerrank.com/roshnimshaji2002"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
