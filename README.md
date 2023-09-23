@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
 
 <div align="left">
-        <h2><img src="![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" align="center"
+        <h2><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="center"
                 width="40" /> Languages and Tools</h2>
           
         
