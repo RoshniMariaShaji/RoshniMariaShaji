@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshniMariaShaji&label=Profile%20views&color=0e75b6&style=flat" alt="RoshniMariaShaji" /> </p>
   
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-      <p align="left">
-- 🌱I'm currently pursuing B.Tech Computer Science Engineering.
-  <p align="left">
-- 📫 How to reach me *roshnimshaji2002@gmail.com* 
+      - 🌱 Currently pursuing *B.Tech Computer Science Engineering*
+
+- 📫 How to reach me *roshnimshaji2002@gmail.com*
     <h2>Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni-maria-shaji-4702a920b" height="30" width="40" /></a>
