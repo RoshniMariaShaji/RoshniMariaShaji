@@ -11,8 +11,7 @@
 
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujimarium" height="30" width="40"/></a>
 </p>
 
 <div align="left">
