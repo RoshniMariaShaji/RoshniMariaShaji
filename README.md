@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🌱 A Free soul trying to learn new things.
   <p align="left">
 - 📫 How to reach me roshnimshaji2002@gmail.com
-           
-<h3 align="left">Connect with me:</h3>
+ <div align="left">          
+<h3>Connect with me:</h3>
 <!-- Social Links !-->
 <a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/">
   <img align="left" alt="Roshni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Roshni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left">
-  
+</div>
+
 
  
   
