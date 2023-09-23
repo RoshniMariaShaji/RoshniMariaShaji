@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshniMariaShaji&label=Profile%20views&color=0e75b6&style=flat" alt="RoshniMariaShaji" /> </p>
 
 
-- 🌱 Currently pursuing *B.Tech Computer Science Engineering*
+- 🌱 Currently pursuing *B.Tech Computer Science Engineering *
 
-- 📫 How to reach me *roshnimshaji2002@gmail.com*
+- 📫 How to reach me *roshnimshaji2002@gmail.com *
 
 <h2>Connect with me:</h2>
 <p align="left">
