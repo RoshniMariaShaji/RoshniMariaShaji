@@ -23,18 +23,15 @@ Here are some ideas to get you started:
       <p align="left">
 - 🌱I'm currently pursuing B.Tech Computer Science Engineering.
   <p align="left">
-- 📫 How to reach me roshnimshaji2002@gmail.com          
-<h3>Connect with me:</h3>
-<!-- Social Links !-->
-<a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/">
-  <img align="left" alt="Roshni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/RoshniMariaShaji">
-  <img align="left" alt="Roshni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 📫 How to reach me *roshnimshaji2002@gmail.com* 
+    <h2>Connect with me:</h2>
 <p align="left">
+<a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni-maria-shaji-4702a920b" height="30" width="40" /></a>
+</p>
+
 <div align="left">
-        <h2> Languages and Tools</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
+                width="45" /> Languages and Tools</h2>
      <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>     
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>       
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -52,6 +49,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   </div>
+  <div>
+<p align="center">
+  <a href="https://www.hackerrank.com/roshnimshaji2002"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://leetcode.com/roshni_m_shaji/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/roshni_m_shaji"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+</p>
+</div>
 </p>
 <br/>
     <h2 align="left"> 💻 My workspace:</h2><br/>
