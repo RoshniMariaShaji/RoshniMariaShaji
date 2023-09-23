@@ -21,10 +21,9 @@ Here are some ideas to get you started:
   
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
       <p align="left">
-- 🌱 A Free soul trying to learn new things.
+- 🌱I'm currently pursuing B.Tech Computer Science Engineering.
   <p align="left">
-- 📫 How to reach me roshnimshaji2002@gmail.com
- <div align="left">          
+- 📫 How to reach me roshnimshaji2002@gmail.com          
 <h3>Connect with me:</h3>
 <!-- Social Links !-->
 <a href="https://www.linkedin.com/in/roshni-maria-shaji-4702a920b/">
@@ -34,16 +33,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Roshni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left">
-</div>
-
-
- 
-  
-
-<p align="left">
-</p>
- 
-
 <div align="left">
         <h2> Languages and Tools</h2>
      <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>     
@@ -53,21 +42,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
- 
-
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-
-
   </div>
-
 </p>
 <br/>
     <h2 align="left"> 💻 My workspace:</h2><br/>
@@ -77,11 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><br/>
 </p>
- 
-
 <br />
-
-
 <div align="left">
         <h2><img width="90" align="center"
                 src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats
